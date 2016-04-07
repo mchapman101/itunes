@@ -17,16 +17,16 @@ The concepts this project will cover are:
 
 
 ##Step 1: Clone and Dissect the Repo
-* Fork and clone this repository.
-* Go and check out http://tylermcginnis.com/itunes. Although that example includes a bunch of filtering options, this project will just be fetching data by artist name.
-* Examine the codebase. Like the ChatRoom project, the index.html page is already built for you. Your main goal is to fill in mainCtrl.js and itunesService.js
-* If you're feeling adventurous, feel free to change the CSS how you would like.
-* Head over to http://angular-ui.github.io/ui-grid/ and check out the examples there. We will be using ui-grid to display the data we get from iTunes. Although all this code will already be in place for you, it's a good idea to get familiar with ui-grid so you know exactly what that code is doing.
+<!-- * Fork and clone this repository. -->
+<!-- * Go and check out http://tylermcginnis.com/itunes. Although that example includes a bunch of filtering options, this project will just be fetching data by artist name. -->
+<!-- * Examine the codebase. Like the ChatRoom project, the index.html page is already built for you. Your main goal is to fill in mainCtrl.js and itunesService.js -->
+<!-- * If you're feeling adventurous, feel free to change the CSS how you would like. -->
+<!-- * Head over to http://angular-ui.github.io/ui-grid/ and check out the examples there. We will be using ui-grid to display the data we get from iTunes. Although all this code will already be in place for you, it's a good idea to get familiar with ui-grid so you know exactly what that code is doing. -->
 
 
 ##Step 2: Build your itunesService
-* In Angular we use 'services' to outsource some of our heavy lifting. That's exactly what we're going to do when we call the iTunes API.
-* Open up itunesService.js and read the instructions. The bigger picture is that this service is going to have a method which takes in an artist name as the parameter, then uses a JSONP http request to call the iTunes API and retrieve the data about that specific artist.
+<!-- * In Angular we use 'services' to outsource some of our heavy lifting. That's exactly what we're going to do when we call the iTunes API. -->
+<!-- * Open up itunesService.js and read the instructions. The bigger picture is that this service is going to have a method which takes in an artist name as the parameter, then uses a JSONP http request to call the iTunes API and retrieve the data about that specific artist. -->
 
 
 ##Step 3: Tie in your Controller
